@@ -20,3 +20,8 @@ Are you serious?
 
 Reply: Absolutely.
 
+
+What do the fascists think of this?
+
+Reply: They mad. They super mad. Heres some shrieking from gab's CTO https://i.imgur.com/iMod3fC.png 
+If you use it purely to make these assholes salty i would be happy.
