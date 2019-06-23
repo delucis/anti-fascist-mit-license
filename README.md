@@ -8,7 +8,7 @@ Reply: No it is not. Thanks for noticing. It is free to a degree, so long as you
 
 Is this enforcable?
 
-Reply: Im not a lawyer. However jslint's dont use this for evil licence is honored by multiple powerful corporations and evil is not defined in that licence in a specific way. Fascism is defined for the purposes of brevity and clarity in this licence. While there may be actual real world fascists who may not meet the specified criterea listed i believe this will cover most of them. Amendments to the licence will likely occur over time as these cases present themselves.
+Reply: Im not a lawyer. However jslint's dont use this for evil licence is honored by multiple powerful corporations and evil is not defined in that licence in a specific way. Fascism is defined for the purposes of brevity and clarity in this licence. While there may be actual real world fascists who may not meet the specified criterea listed i believe this will cover most of them. Amendments to the licence will likely occur over time as these cases present themselves. Another thing to consider for enforcability is the case of Artifex v. Hancom. If you licence software with the antifascist MIT licence, and provide an option to buy a commercial licence it may be enforcable as a binding contract. Since you can refuse to do business with anyone without giving a reason it should not be hard to keep fascists from using your work.
 
 
 Is this censorship?
