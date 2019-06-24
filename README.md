@@ -1,5 +1,8 @@
 This  is not as of yet ready for use and i am publishing it to open it up for comments and concerns.
 
+This license may be used under the terms of the Anti-Fascist-MIT-License
+
+
 FAQ.
 
 This isnt free software!
@@ -25,3 +28,4 @@ What do the fascists think of this?
 
 Reply: They mad. They super mad. Heres some shrieking from gab's CTO https://i.imgur.com/iMod3fC.png 
 If you use it purely to make these assholes salty i would be happy.
+
